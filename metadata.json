@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "All-in-one AI and utility toolkit featuring a colorful thin 3D icon grid of functional Gemini AI and device tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
